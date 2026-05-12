@@ -364,3 +364,4 @@ C:\Users\marka\Desktop\BYUI\Semester 3\Term 3\CSE 325\Week 2\MvcMovie\bin\Debug\
 C:\Users\marka\Desktop\BYUI\Semester 3\Term 3\CSE 325\Week 2\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\marka\Desktop\BYUI\Semester 3\Term 3\CSE 325\Week 2\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
 C:\Users\marka\Desktop\BYUI\Semester 3\Term 3\CSE 325\Week 2\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-oau03t9xe0-oau03t9xe0.gz
+C:\Users\marka\Desktop\BYUI\Semester 3\Term 3\CSE 325\Week 2\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
